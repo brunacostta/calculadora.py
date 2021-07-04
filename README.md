@@ -5,4 +5,4 @@ Para executar essa calculadora, será necessário instalar o Python e rodar na l
 python calculadora.py
 ```
 
-##   Como tenho conhecimento apenas em  modelage de banco de dados , fiz apenas a inclusão dos dados  da segunda parte.
+##   Como tenho conhecimento apenas em  modelagem de banco de dados, fiz apenas a parte de inclusão de dados da segunda etapa.
